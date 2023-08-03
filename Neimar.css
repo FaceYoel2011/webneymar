@@ -1,0 +1,13 @@
+body{background-color: black;
+text-align: center;}
+
+h1{color: #f8f4f4;}
+h3{color: #fbf8f8;}
+p{color: #fffbfb;}
+h2{color: #fbf8f8;}
+a{color: #eaf20c;}
+
+img {
+    border-radius: 50%;
+    box-shadow: 20px 4px black;
+}

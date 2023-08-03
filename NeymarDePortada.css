@@ -1,0 +1,19 @@
+body{
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+
+h1 {
+    color: #07560a;
+    text-shadow: 4px 4px rgb(64, 255, 0);
+}
+
+input {
+    background-color: rgba(0, 0, 0, 0.248);
+    border-radius: 20px;
+}
+
+img {
+    border-radius: 50%;
+    box-shadow: 20px 4px black;
+}
